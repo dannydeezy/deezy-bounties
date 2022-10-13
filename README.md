@@ -1,3 +1,4 @@
+# Deezy Bounties
 Earn by building software for the Deezy ecosystem.
 
 ## Bounties
