@@ -3,7 +3,7 @@ Earn by building software for the Deezy ecosystem.
 
 ## Bounties
 
-- Integrate Deezy Swaps into BtcPayServer 
+- Integrate Deezy Swaps into BtcPayServer (https://github.com/dannydeezy/deezy-bounties/issues/1)
 
 ## Rules
 
